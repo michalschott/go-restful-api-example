@@ -3,8 +3,8 @@ package handler
 import (
 	"encoding/json"
 	"github.com/gorilla/mux"
-	"github.com/kkamdooong/go-restful-api-example/db"
-	"github.com/kkamdooong/go-restful-api-example/model"
+	"github.com/michalschott/go-restful-api-example/db"
+	"github.com/michalschott/go-restful-api-example/model"
 	"io/ioutil"
 	"net/http"
 )
